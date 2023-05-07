@@ -1,3 +1,5 @@
 # Table of contents
 
-* [About the Docs](README.md)
+* [How the Docs work](README.md)
+* [How the app works](how-the-app-works.md)
+* [The Backend](the-backend.md)
